@@ -1,2 +1,4 @@
 Dummy project for testing Jenkins with Git.
 
+git remote is called "origin": URL = git@github.com:pluscher/dummy-project.git
+
