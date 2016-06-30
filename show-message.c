@@ -1,11 +1,15 @@
-/* Over-complex dummy project for testing Jenkins with Git */
+/* Over-complex dummy project for testing Jenkins with Git.
+ * Version 2
+*/
 
 #include <stdio.h>
 #include <stddef.h>
 #include <string.h>
-const char csGreetFile[] = "greeting.txt";
 
 #define MAXLEN (128)
+
+const char csGreetFile[] = "greeting.txt";
+
 
 int main(int argc, char *argv[])
 {
